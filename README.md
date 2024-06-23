@@ -2,7 +2,7 @@
 # StackIn 
 ## Find Roadmap of any field
 
-# Social Networking App
+# Social Networking App(like linkedIn)
 
 ![](https://i.imgur.com/waxVImv.png)
 
